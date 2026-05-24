@@ -434,7 +434,7 @@ appid,primary_english_name
 
 ## 许可证
 
-如果没有特殊要求，建议使用 MIT License。
+MIT License。
 
 ---
 
